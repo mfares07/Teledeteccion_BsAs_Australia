@@ -26,3 +26,5 @@ Además, se utiliza:
   - **GridSearchCV**: Para la búsqueda de hiperparámetros mediante validación cruzada.
   - **make_pipeline**: Para construir tuberías de procesamiento de datos.
   - **accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay**
+
+![Landsat Timeline](https://appliedsciences.nasa.gov/sites/default/files/landsat-timeline.jpg)
