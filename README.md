@@ -27,4 +27,4 @@ Además, se utiliza:
   - **make_pipeline**: Para construir tuberías de procesamiento de datos.
   - **accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay**
 
-![Landsat Timeline](https://appliedsciences.nasa.gov/sites/default/files/landsat-timeline.jpg)
+![Landsat Timeline](https://www.nasa.gov/wp-content/uploads/2021/08/landsat9_still_sw2_print_0.jpg)
